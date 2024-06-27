@@ -1,2 +1,2 @@
-# newproject
-New project
+# internsala project
+Internsala project
